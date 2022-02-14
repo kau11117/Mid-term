@@ -5,7 +5,7 @@
  */
 package arithmetic;
 
-import arithmetic.ArithmeticVariables.Operation;
+
 import java.util.Scanner;
 
 /** This class takes String input plus,minus,divide and times
